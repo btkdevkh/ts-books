@@ -1,0 +1,8 @@
+.policeTitle {
+  font-family: 'Hi Melody', cursive;
+  background-color: #007acc !important;
+}
+
+.policeTitle:hover {
+  color: #f0db4f !important;
+}

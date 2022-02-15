@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Hi+Melody&display=swap');
+
+body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 490px;
+  min-height: 100vh;
+  background: url('../../assets/img/tjs.png') center center / cover no-repeat;
+}
+
+.App {
+  color: white !important;
+  background-color: rgba(0,0,0,0.5);
+  padding: 35px;
+  max-width: 790px;
+  margin: auto;
+}
+
+button {
+  font-family: 'Hi Melody', cursive;
+}
